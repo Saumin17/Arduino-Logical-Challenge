@@ -1,7 +1,7 @@
 // Constants for timing
 unsigned long startTime = 0;
 unsigned long elapsedTime = 0;
-unsigned long duration = 50000; // Default duration: 5 seconds
+unsigned long duration = 50000; // Default duration: 50 seconds
 bool isRunning = false;
 
 // Pin definitions
